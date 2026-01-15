@@ -1,7 +1,7 @@
 # CompSci3 Notes<hr>Hyper Text Markup Language/Cascading Style Sheets/JavaScript Website Building
 
 Welcome! These are personal notes that intend to not only educate, but entertain as well. <br>
-I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it myself. Thus, this repository of ASCII and intellect was born. <br>
+I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it myself. Thus, this repository of ASCII and intellect was born. <hr>
 ### <br><strong><ins>PLEASE READ THE FOLLOWING NOTICES!</ins></strong><br>
 1. Firstly, I **highly** recommend you read the *"Array of Rules"* <ins>(ArrayOfRules.md), where indicators, phrasing, content division, and anything requiring context will be named</ins>. This is a seperate file to declutter this file alongside allowing for later additions/amends. 
 2. This README file is a markdown file to catch the eye. This file is the only file in this repository that possesses a file type that is not one of the few (three) I will teach. Because of this fact, heed no mind to the contents of the raw file. I cannot fathom the fact that I learned markdown for this alone.
@@ -17,4 +17,4 @@ I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it mys
     </ol>
     For a reference on how far tech companies are willing to cause inconvenience for foolish reasons, please see <a href="https://pseudodistant.dev/unsupported.php" target="_blank">Fumo YouTuber PsuedoDistant's rant</a> as well (might have to open in new tab, markdown files can straight up ignore styling within nested attribute tags).
 
-Most of the info here came from O C-A's Computer Science III course from 2025-2026, but I have added additional info because a course never covers everything that a coder might use. This will not either, just more than a course would ordinarily cover. I created the original in GitHub, 
+Most of the info here came from O-C-A's Computer Science III course from 2025-2026, but I have added additional info because a course never covers everything that a coder might use. This will not either, just more than a course would ordinarily cover. I created the original in GitHub, but that version had my instructor's name displayed in the commits before permission was obtained. Incidentally, this repository was also created in GitHub, and can be found <a href="https://github.com/BerryhillCoding/CompSci3_Notes_-_HTML.Websites" target="_blank">here</a>.
