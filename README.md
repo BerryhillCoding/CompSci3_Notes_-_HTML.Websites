@@ -9,7 +9,7 @@ I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it mys
 <hr>
 ### <br><strong><ins>PLEASE READ THE FOLLOWING NOTICES!</ins></strong><br>
 
-1. Firstly, I **highly** recommend you read the *"Array of Rules"* <ins>(ArrayOfRules.md), where indicators, phrasing, content division, and anything requiring context will be named</ins>. This is a seperate file to declutter this file alongside allowing for later additions/amends. 
+1. Firstly, I **highly** recommend you read the *"Array of Rules"* <ins>(ArrayOfRules.html), where indicators, phrasing, content division, and anything requiring context will be named</ins>. This is a seperate file to declutter this file alongside allowing for later additions/amends. 
 
 2. This README file is a markdown file to catch the eye. This file is the only file in this repository that possesses a file type that is not one of the few (three) I will teach. Because of this fact, heed no mind to the contents of the raw file. I cannot fathom the fact that I learned markdown for this alone.
 
