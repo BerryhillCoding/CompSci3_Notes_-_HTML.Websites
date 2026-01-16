@@ -3,8 +3,8 @@
 Welcome! These are personal notes that intend to not only educate, but entertain as well. <br>
 I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it myself. Thus, this repository of ASCII and intellect was born. 
 ⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆⛆<br>
-⛆⛆⛆⛆⛆ˏ_＿_ˎ⛆⛆⛆⛆⛆⛆⛆ˏ______________ˎ⛆<br>
-⛆⛆⛆⛆/⧸🖳⍾┚⧹\⛆⛆⛆⛆⛆⛆⎸☎ - 𝌰𝍁𝌡⎹⛆<br>
+⛆⛆⛆⛆⛆ˏ___ˎ⛆⛆⛆⛆⛆ˏ______________ˎ⛆<br>
+⛆⛆⛆⛆/⧸🖳⍾┚⧹\⛆⛆⛆⛆⛆⛆⎸⸨☎⸩ - 𝌰𝍁𝌡⎹⛆<br>
 "It is a shame that the ASCII looks... scuffed."
 <hr>
 ### <br><strong><ins>PLEASE READ THE FOLLOWING NOTICES!</ins></strong><br>
