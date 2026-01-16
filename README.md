@@ -11,7 +11,7 @@ I am hardwired to rewrite notes, and I enjoy doing so as if I am teaching it mys
 
 1. Firstly, I **highly** recommend you read the *"Array of Rules"* <ins>(ArrayOfRules.html), where indicators, phrasing, content division, and anything requiring context will be named</ins>. This is a seperate file to declutter this file alongside allowing for later additions/amends. 
 
-2. This README file is a markdown file to catch the eye. This file is the only file in this repository that possesses a file type that is not one of the few (three) I will teach. Because of this fact, heed no mind to the contents of the raw file. I cannot fathom the fact that I learned markdown for this alone.
+2. This README file is a markdown file to catch the eye. <ins>This file is the only file in this repository that possesses a file type that is not one of the few (three) I will teach</ins>. Because of this fact, heed no mind to the contents of the raw file; in fact, I *advise to not look at any raw files for the purpose of learning*. I cannot fathom the fact that I learned markdown for this alone.
 
 3. Let it be said that while these notes are seemingly worded with the expectation of public availability, these <ins>notes were solely meant for my own use</ins> at the end of the day. Even so, amnesia is always a possibility, so these *notes are written under the assumption that the reader possesses **minimal understanding** of the covered languages*.
 
